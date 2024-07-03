@@ -1,1 +1,20 @@
 hi 
+hello Hi friends, this article is a continuation of the Java-8 Features series.
+
+We will go through the functional Interface in this article.
+
+You can refer to the other Java-8 articles that are already covered in this series:
+
+1. JAVA 8 FEATURES — STATIC & DEFAULT METHODS, AND REFERENCES
+Java 8 — New Features That You Must Know
+Default and Static Methods And Method References
+medium.com
+
+2. JAVA 8 FEATURES — LAMBDA EXPRESSION
+Java 8 — Lambda Expression — The Feature That You Must Know
+Optimize Your Application Code by Using New Java 8 Features.
+medium.com
+
+What Is a Functional Interface?
+A Functional Interface is an interface that has only one abstract method. They can have only one functionality to exhibit.
+Note that instances of functional interfaces can be created with the help of lambda expressions, method references, constructor references, or anonymous classes.
